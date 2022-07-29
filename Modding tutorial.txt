@@ -1,0 +1,28 @@
+  Hey all! If your like me you like mods. So lets get right to it. FIRST check #modlinks for any mods available for Bright Nights. 
+
+   Click the link to any of those mods and download! 
+
+Once downloaded check your downloads folder and you'll notice a new .zip file with the name of the mod you downloaded. 
+I recommend using 7zip to unzip files. (as doing it from windows may not grab all the files) 
+
+Once the file is unzipped you'll have a nice new file ready to be added to BN!
+
+Go to where your Bright Nights is downloaded too. Mine is in documents/Cataclysm BN
+
+Follow this path Cataclysm BN/data/mods
+
+Add any mods here and viola! You have added mods to the game. 
+
+
+
+   UPDATING UNDEAD PEOPLE TILESET
+
+Click the link in #modlinks 
+
+Unzip using 7zip
+
+Under the TILSETS folder move everything in the MODS folder to your BN mods folder. (You don't have to move all of them I just do cause I use hella mods.)
+
+Under the GFX folder move the MXS+UNDEAD PEOPLE to your GFX folder. Cataclysm BN/gfx
+
+You can also check in the BN TILEST MODS folder and add any of those files to your MODS folder. I suggest the fake snow tiles. 
