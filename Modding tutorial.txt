@@ -2,6 +2,9 @@
 
    Click the link to any of those mods and download! 
 
+SOME OF THESE MODS MAY ALSO HAVE A DDA VERSION. DO NOT USE IT. PATH WILL BE Arcana mod master/Arcana mod BN & Arcana mod DDA
+CHOOSE THE BN VERSION
+
 Once downloaded check your downloads folder and you'll notice a new .zip file with the name of the mod you downloaded. 
 I recommend using 7zip to unzip files. (as doing it from windows may not grab all the files) 
 
